@@ -1,2 +1,2 @@
 # JS-Racing-Game
-it's something
+A coop racing game made with HTML5 Canvas
